@@ -1,0 +1,86 @@
+body {
+  background-color: #F8F8F8;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+    color: #B6C6F2;
+}
+
+.wide {
+    width: 960px;
+    margin: auto;
+}
+
+.header-inner {
+  position:
+}
+
+.header-section {
+  font-weight: normal;
+  margin: auto;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.header-list {
+  background-color: #B6C6F2;
+  height: 70px;
+  color: white;
+}
+
+.head-list a {
+  color: white;
+}
+
+.header-list li a{
+  float: left;
+  padding: 25px 20px;
+  color: white;
+}
+
+.header-list a:hover {
+  background-color: white;
+  color: #B6C6F2;
+}
+
+.primary {
+  padding-top: 30px;
+}
+
+.post-wrapper {
+  background-color: #fff;
+  margin-bottom: 30px;
+  padding: 0px 20px;
+}
+
+.post-title {
+  padding: 15px 0px;
+}
+
+.dottedline {
+  position: relative;
+  color: white;
+  background-color: navy;
+  font-size: 16px;
+  padding: 10px;
+
+  border-radius: 3px;
+}
+
+.post-text {
+  margin: 10px;
+  padding-bottom: 15px;
+}
+
+.my-photo {
+  text-align: center;
+}
